@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile views](https://gpvc.arturio.dev/aideisayevaa)  
+![Profile views](https://gpvc.arturio.dev/fatimaAliyeva01)  
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Aida+Isayeva)]( https://aideisayevaa.github.io/Portfolio/)
 
@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 
 <h2> My GitHub Stats  <img src = "https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width = 32px> </h2>
 
-![GitHub metrics](https://metrics.lecoq.io/aideisayevaa)
+![GitHub metrics](https://metrics.lecoq.io/FatimaAliyeva01)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aideisayevaa&show_icons=true&count_private=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true) 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aideisayevaa)](https://github.com/aideisayevaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaAliyeva01)](https://github.com/FatimaAliyeva01/github-readme-stats)
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aideisayevaa)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FatimaAliyeva01)
     
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aideisayevaa)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FatimaAliyeva01)  
 
