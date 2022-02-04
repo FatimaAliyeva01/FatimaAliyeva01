@@ -8,7 +8,7 @@
  📫 How to reach me: fatimeeliyeva01@gmail.com
  
  📊 &nbsp;**This week I spent my time on**
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
  
