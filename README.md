@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 
 ![GitHub metrics](https://metrics.lecoq.io/FatimaAliyeva01)
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true) 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaAliyeva01)](https://github.com/FatimaAliyeva01/github-readme-stats)
@@ -68,8 +67,3 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FatimaAliyeva01)
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FatimaAliyeva01)  
-
-
-
-
-
