@@ -1,8 +1,7 @@
- -- ### Hi there 👋 ,I'm Fatima Aliyeva
+ ### Hi there 👋 ,I'm Fatima Aliyeva
  I am Back-end developer from Azerbaijan
  
  🔭 I’m currently working on Django development
- 
  🌱 I’m currently learning Python
  📫 How to reach me: fatimeeliyeva01@gmail.com
  
