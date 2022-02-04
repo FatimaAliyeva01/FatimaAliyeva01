@@ -2,12 +2,16 @@
  I am Back-end developer from Azerbaijan
  
  🔭 I’m currently working on Django development
+ 
  🌱 I’m currently learning Python
+ 
  📫 How to reach me: fatimeeliyeva01@gmail.com
  
 
-**FatimaAliyeva01/FatimaAliyeva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
+
+**FatimaAliyeva01/FatimaAliyeva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Django development
