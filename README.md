@@ -58,16 +58,6 @@ Here are some ideas to get you started:
 <br>  
 
 <h2> My GitHub Stats <img src = "https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width = 32px> </h2>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true&hide=prs)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true) 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaAliyeva01)](https://github.com/FatimaAliyeva01/github-readme-stats)
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FatimaAliyeva01)
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true&hide=prs)
 <!-- GitHub Stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true&hide=prs)
 
@@ -75,7 +65,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaAliyeva01)](https://github.com/FatimaAliyeva01/github-readme-stats)
 
 <!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FatimaAliyeva01)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FatimaAliyeva01)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
