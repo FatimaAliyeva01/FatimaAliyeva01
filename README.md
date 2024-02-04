@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  <!-- Profile Views -->
-![Profile views](https://gpvc.arturio.dev/FatimaAliyeva01)
-
+ ![Profile Views](https://komarev.com/ghpvc/?username=FatimaAliyeva01)
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Fatima+Aliyeva)](https://github.com/FatimaAliyeva01/MyPortfolia.git)
 
