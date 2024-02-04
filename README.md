@@ -46,10 +46,6 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@fatimeeliyeva01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a> 
 <br>  
 <br>  
-
-<h2> My GitHub Stats  <img src = "https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width = 32px> </h2>
-<h2> My GitHub Stats <img src = "https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width = 32px> </h2>
-
 ![GitHub metrics](https://metrics.lecoq.io/FatimaAliyeva01)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true) 
@@ -59,6 +55,10 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FatimaAliyeva01)
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FatimaAliyeva01)  
+<h2> My GitHub Stats  <img src = "https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width = 32px> </h2>
+<h2> My GitHub Stats <img src = "https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width = 32px> </h2>
+
+
 
 
 
