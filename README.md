@@ -1,9 +1,9 @@
  ### Hi there 👋 ,I'm Fatima Aliyeva
- I am Back-end developer from Azerbaijan
+ I am Data Analytics from Azerbaijan
  
- 🔭 I’m currently working on Django development
+ 🔭 I’m currently working on Data Analytics 
  
- 🌱 I’m currently learning Python
+ 🌱 I’m currently learning Python, SQL
  
  📫 How to reach me: fatimeeliyeva01@gmail.com
  
