@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Profile views](https://gpvc.arturio.dev/FatimaAliyeva01)  
+--> ![Profile views](https://gpvc.arturio.dev/FatimaAliyeva01)  
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Fatima+Aliyeva)]( https://github.com/FatimaAliyeva01/MyPortfolia.git)
 
