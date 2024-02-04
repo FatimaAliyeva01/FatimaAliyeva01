@@ -68,3 +68,15 @@ Here are some ideas to get you started:
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FatimaAliyeva01)
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true&hide=prs)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true) 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaAliyeva01)](https://github.com/FatimaAliyeva01/github-readme-stats)
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FatimaAliyeva01)
+    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAliyeva01&show_icons=true&count_private=true&hide=prs)
+
