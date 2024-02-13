@@ -3,7 +3,7 @@
  
  🔭 I’m currently working on Data analysis
  
- 🌱 I’m currently learning Python, SQL
+ 🌱 I’m currently learning Python, SQL, AWS
  
  📫 How to reach me: fatimeeliyeva01@gmail.com
  
