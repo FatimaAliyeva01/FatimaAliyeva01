@@ -67,8 +67,8 @@ The goal of this project was to analyze customer reviews of airlines using web s
 ### 📊 Superstore Sales Analysis
 Conducted a comprehensive analysis of sales data to extract insights critical for strategic decision-making. Focused on evaluating sales performance across regions, product categories, and customer segments to uncover patterns, trends, and growth opportunities. Delivered data-driven recommendations to optimize the company's sales strategy, improve profitability, and enhance customer engagement.
 
-### 🎬 IMDB Movie Reviews Sentiment Analysis
-Engineered a streamlined and resource-efficient text classification model to analyze sentiment in IMDB movie reviews. This project focused on delivering high accuracy within computational constraints, creating a scalable solution for sentiment analysis. The model effectively classifies user reviews, offering actionable insights for improved customer engagement and data-driven decision-making in a cost-effective manner.
+### 🎬 IMDB Movie Reviews Text Classification
+The goal of this project is to develop a text classification system that can accurately predict the sentiment of movie reviews from the IMDB dataset, classifying them as either positive or negative. By leveraging a series of established machine learning techniques, including data preprocessing, TF-IDF feature extraction, and a variety of classical machine learning algorithms, this project aims to deliver an effective sentiment analysis tool optimized for environments with limited computational resources.
 
 
 ---
